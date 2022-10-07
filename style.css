@@ -7,6 +7,18 @@ html {
   background-color: #fabd4dad;
 }
 
+.quadrado_logo {
+  width: 100px;
+  height: 100px;
+  background: white;
+  text-align: center;
+  line-height: 120px;
+  float: right;
+  margin-right: 50%;
+  margin-top: -50px;
+  transform: translateX(50%) rotate(45deg);
+}
+
 .logo {
   width: 35px;
 }
@@ -28,7 +40,7 @@ html {
 .titulo {
   font-family: "Courier New", Courier, monospace;
   font-size: 45px;
-  color: #fff;
+  color: #f84102;
   letter-spacing: 2.5px;
   word-spacing: 5px;
   font-weight: bold;
@@ -39,7 +51,7 @@ html {
   font-size: 25px;
   padding-top: 17px;
   letter-spacing: 3.5px;
-  color: rgb(215, 213, 213);
+  color: #ff622d;
 }
 
 .foto_de_perfil {
