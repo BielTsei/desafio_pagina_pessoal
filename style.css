@@ -7,6 +7,10 @@ html {
   background-color: #2e2d4c;
 }
 
+.nav_bar {
+  display: flex;
+}
+
 .apresentacao {
   text-align: center;
   margin: 120px auto;
@@ -23,6 +27,7 @@ html {
   color: #fff;
   letter-spacing: 2.5px;
   word-spacing: 5px;
+  font-weight: bold;
 }
 
 .sub_titulo {
@@ -52,10 +57,26 @@ html {
 
 .fonte_media {
   color: black;
-  font-size: 20px;
+  font-size: 30px;
   letter-spacing: 1.8px;
+  font-weight: bolder;
+  text-align: left;
 }
 
 .paragrafo {
   font-family: "Exo2";
+  display: inline-block;
+  font-size: 20px;
+}
+
+.fonte_paragrafo {
+  font-family: "Exo2";
+}
+
+li {
+  text-align: left;
+}
+
+.progress_bar_1 {
+  text-align: left;
 }
