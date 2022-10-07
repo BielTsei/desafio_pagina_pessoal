@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "Exo2";
+  src: url(/fonts/Exo2-VariableFont_wght.ttf);
+}
+
+html {
+  background-color: #2e2d4c;
+}
+
+.apresentacao {
+  text-align: center;
+  margin: 120px auto;
+}
+
+.dev_icon {
+  width: 160px;
+  margin-bottom: 15px;
+}
+
+.titulo {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 45px;
+  color: #fff;
+  letter-spacing: 2.5px;
+  word-spacing: 5px;
+}
+
+.sub_titulo {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+  padding-top: 17px;
+  letter-spacing: 3.5px;
+  color: rgb(215, 213, 213);
+}
+
+.foto_de_perfil {
+  width: 180px;
+}
+
+.conteudo {
+  text-align: center;
+  width: 70%;
+  margin: 120px auto;
+  background-color: white;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+.imagens_portfolio {
+  width: 30%;
+}
+
+.fonte_media {
+  color: black;
+  font-size: 20px;
+  letter-spacing: 1.8px;
+}
+
+.paragrafo {
+  font-family: "Exo2";
+}
