@@ -4,7 +4,11 @@
 }
 
 html {
-  background-color: #2e2d4c;
+  background-color: #fabd4dad;
+}
+
+.logo {
+  width: 35px;
 }
 
 .nav_bar {
@@ -39,7 +43,8 @@ html {
 }
 
 .foto_de_perfil {
-  width: 180px;
+  width: 130px;
+  float: left;
 }
 
 .conteudo {
@@ -67,6 +72,7 @@ html {
   font-family: "Exo2";
   display: inline-block;
   font-size: 20px;
+  text-align: left;
 }
 
 .fonte_paragrafo {
