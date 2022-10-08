@@ -23,13 +23,30 @@ html {
   width: 35px;
 }
 
-.nav_bar {
-  display: flex;
+.nav_bar li {
+  display: inline-block;
+  text-transform: uppercase;
+  width: 150px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.nav_bar li a:link,
+.nav_bar li a:visited {
+  color: #ff622d;
+  text-decoration: none;
+}
+
+.nav_bar li a:link,
+.nav_bar li a:hover {
+  color: #ff2200;
+  text-decoration: none;
 }
 
 .apresentacao {
   text-align: center;
-  margin: 120px auto;
+  margin: 100px auto;
 }
 
 .dev_icon {
@@ -55,46 +72,86 @@ html {
 }
 
 .foto_de_perfil {
-  width: 130px;
+  width: 140px;
   float: left;
 }
 
 .conteudo {
   text-align: center;
   width: 70%;
-  margin: 120px auto;
+  margin: 100px auto;
   background-color: white;
   padding: 50px;
   border-radius: 10px;
 }
 
 .imagens_portfolio {
-  width: 30%;
+  width: 40%;
 }
 
 .fonte_media {
-  color: black;
-  font-size: 30px;
+  font-size: 36px;
   letter-spacing: 1.8px;
   font-weight: bolder;
   text-align: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .paragrafo {
   font-family: "Exo2";
   display: inline-block;
-  font-size: 20px;
+  font-size: 24px;
   text-align: left;
+  padding-top: 20px;
+  line-height: 35px;
+  word-spacing: 6.3px;
+  color: rgb(32, 31, 31);
 }
 
 .fonte_paragrafo {
   font-family: "Exo2";
+  font-size: 22px;
 }
 
 li {
   text-align: left;
 }
 
+.title_habilidades {
+  margin-bottom: 5px;
+}
+
+.lista {
+  list-style: disc;
+  margin-top: 10px;
+}
+
 .progress_bar_1 {
-  text-align: left;
+  margin-left: -73%;
+  box-sizing: border-box;
+  accent-color: #f84102;
+}
+
+.progress_bar_2 {
+  margin-left: -73%;
+  box-sizing: border-box;
+  accent-color: #f84102;
+}
+
+.progress_bar_3 {
+  margin-left: -73%;
+  box-sizing: border-box;
+  accent-color: #f84102;
+}
+
+.progress_bar_4 {
+  margin-left: -73%;
+  box-sizing: border-box;
+  accent-color: #f84102;
+}
+
+.icone_contato {
+  width: 30px;
+  display: inline-block;
 }
