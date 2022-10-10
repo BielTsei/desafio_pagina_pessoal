@@ -4,6 +4,8 @@
 
 #### Projeto desenvolvido como exercicio do curso DevPro, onde foi utilizado HTML e CSS.
 
+<img src="/imgs/preview_pgpessoal.png"/>
+
 ![Preview](/imgs/preview_pgpessoal.png =100x20)
 
 ##### Atribuições:
