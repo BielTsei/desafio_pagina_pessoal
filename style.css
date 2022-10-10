@@ -323,20 +323,25 @@ li {
     transform: translateX(50%);
   }
 
+  .apresentacao {
+    margin-bottom: 50px;
+  }
+
   .conteudo {
     width: 67%;
     padding: 40px;
+    margin: 50px auto;
   }
 
   .imagens_portfolio {
-    width: 120px;
+    width: 320px;
     border-radius: 5px;
     filter: grayscale(70%);
     margin-bottom: 20px;
   }
 
   .imagens_portfolio1 {
-    width: 120px;
+    width: 320px;
     border-radius: 5px;
     filter: grayscale(70%);
     margin-left: 15px;
@@ -353,5 +358,28 @@ li {
 
   .paragrafo {
     font-size: 20px;
+  }
+
+  .lista {
+    font-size: 20px;
+  }
+
+  .rodape p {
+    display: inline-block;
+    margin: 0px;
+  }
+
+  .fonte_paragrafo.atribuicao {
+    display: inline-block;
+    margin: 0px;
+    margin-bottom: 15px;
+  }
+
+  .link_github2 {
+    margin-right: 15px;
+  }
+
+  #contato p {
+    font-size: 18px;
   }
 }
