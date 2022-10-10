@@ -4,7 +4,7 @@
 }
 
 html {
-  background-color: #fabd4dad;
+  background-color: #fbd286;
 }
 
 .quadrado_logo {
@@ -196,21 +196,25 @@ li {
 .fa-phone {
   color: #f84102;
   margin-right: 10px;
+  margin-bottom: 7px;
 }
 
 .fa-whatsapp {
   color: #f84102;
   margin-right: 10px;
+  margin-bottom: 7px;
 }
 
 .fa-envelope {
   color: #f84102;
   margin-right: 10px;
+  margin-bottom: 7px;
 }
 
 .fa-github {
   color: #f84102;
   margin-right: 10px;
+  margin-bottom: 7px;
 }
 
 .fonte_paragrafo_contato {
@@ -222,7 +226,31 @@ li {
   width: 400px;
 }
 
+.rodape {
+  background-color: #f84102;
+  padding: 120px;
+  text-align: center;
+  position: relative;
+  color: #fff;
+}
+
+.rodape p {
+  display: inline-block;
+  margin-right: 10px;
+}
+
 .atribuicao {
-  margin-top: 20px;
   font-size: 16px;
+  text-align: center;
+  color: #fff;
+}
+
+.fa-square-github {
+  font-size: 25px;
+  color: #fff;
+}
+
+.fa-linkedin {
+  color: #fff;
+  font-size: 25px;
 }
