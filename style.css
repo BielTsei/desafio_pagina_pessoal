@@ -5,6 +5,7 @@
 
 html {
   background-color: #fbd286;
+  scroll-behavior: smooth;
 }
 
 .quadrado_logo {
