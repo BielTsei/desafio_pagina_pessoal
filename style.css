@@ -171,9 +171,58 @@ li {
 }
 
 .link_github:hover {
-  color: #f84102;
+  color: #2c003e;
 }
 
 .btn_inicio {
-  width: 50px;
+  font-size: 30px;
+  color: #fff;
+  background-color: #f84102;
+  border-radius: 50%;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  opacity: 0.3;
+}
+
+.btn_inicio:hover {
+  opacity: 1;
+}
+
+.fa-phone {
+  color: #f84102;
+  margin-right: 10px;
+}
+
+.fa-whatsapp {
+  color: #f84102;
+  margin-right: 10px;
+}
+
+.fa-envelope {
+  color: #f84102;
+  margin-right: 10px;
+}
+
+.fa-github {
+  color: #f84102;
+  margin-right: 10px;
+}
+
+.fonte_paragrafo_contato {
+  text-align: left;
+  font-family: "Exo2";
+  font-size: 18px;
+  letter-spacing: 1.3px;
+  word-spacing: 2px;
+  width: 400px;
+}
+
+.atribuicao {
+  margin-top: 20px;
+  font-size: 16px;
 }
