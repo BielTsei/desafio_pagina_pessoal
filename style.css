@@ -24,12 +24,12 @@ html {
 }
 
 .nav_bar li {
+  font-family: "Courier New", Courier, monospace;
   display: inline-block;
   text-transform: uppercase;
   width: 150px;
   text-align: center;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-bottom: 35px;
 }
 
 .nav_bar li a:link,
@@ -74,6 +74,7 @@ html {
 .foto_de_perfil {
   width: 140px;
   float: left;
+  padding: 20px 20px 0px 20px;
 }
 
 .conteudo {
@@ -86,7 +87,14 @@ html {
 }
 
 .imagens_portfolio {
-  width: 40%;
+  width: 400px;
+  border-radius: 5px;
+  filter: grayscale(70%);
+  margin-bottom: 20px;
+}
+
+.imagens_portfolio:hover {
+  filter: none;
 }
 
 .fonte_media {
@@ -94,18 +102,16 @@ html {
   letter-spacing: 1.8px;
   font-weight: bolder;
   text-align: left;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 5px;
+  margin-bottom: 15px;
 }
 
 .paragrafo {
   font-family: "Exo2";
-  display: inline-block;
-  font-size: 24px;
+  font-size: 22px;
   text-align: left;
-  padding-top: 20px;
   line-height: 35px;
-  word-spacing: 6.3px;
+  word-spacing: 5px;
   color: rgb(32, 31, 31);
 }
 
@@ -127,28 +133,18 @@ li {
   margin-top: 10px;
 }
 
-.progress_bar_1 {
-  margin-left: -73%;
+.progress_bar {
   box-sizing: border-box;
   accent-color: #f84102;
 }
 
-.progress_bar_2 {
-  margin-left: -73%;
-  box-sizing: border-box;
-  accent-color: #f84102;
+.fonte_habilidades {
+  font-size: 18px;
 }
 
-.progress_bar_3 {
-  margin-left: -73%;
-  box-sizing: border-box;
-  accent-color: #f84102;
-}
-
-.progress_bar_4 {
-  margin-left: -73%;
-  box-sizing: border-box;
-  accent-color: #f84102;
+#habilidades label {
+  display: inline-block;
+  width: 180px;
 }
 
 .icone_contato {
