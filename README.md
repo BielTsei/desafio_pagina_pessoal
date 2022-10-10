@@ -1,6 +1,4 @@
-# Página pessoa
-
-#
+# Página pessoal
 
 #### Projeto desenvolvido como exercicio do curso DevPro, onde foi utilizado HTML e CSS.
 
