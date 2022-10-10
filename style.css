@@ -322,6 +322,11 @@ li {
     transform: translateX(50%);
   }
 
+  .conteudo {
+    width: 67%;
+    padding: 40px;
+  }
+
   .imagens_portfolio {
     width: 120px;
     border-radius: 5px;
@@ -334,5 +339,18 @@ li {
     border-radius: 5px;
     filter: grayscale(70%);
     margin-left: 15px;
+  }
+
+  .nav_bar li {
+    width: 100px;
+    font-size: 16px;
+  }
+
+  .foto_de_perfil {
+    width: 100px;
+  }
+
+  .paragrafo {
+    font-size: 20px;
   }
 }
