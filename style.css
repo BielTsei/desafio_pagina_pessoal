@@ -97,6 +97,7 @@ html {
   width: 400px;
   border-radius: 5px;
   filter: grayscale(70%);
+  margin-left: 15px;
 }
 
 .imagens_portfolio:hover {
@@ -162,4 +163,17 @@ li {
 .icone_contato {
   width: 30px;
   display: inline-block;
+}
+
+.link_github {
+  text-decoration: none;
+  color: rgb(32, 31, 31);
+}
+
+.link_github:hover {
+  color: #f84102;
+}
+
+.btn_inicio {
+  width: 50px;
 }

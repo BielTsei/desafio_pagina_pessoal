@@ -12,3 +12,5 @@ Atribuições:
 <a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Uniconlabs - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/web-site" title="web site icons">Web site icons created by Ilham Fitrotul Hayat - Flaticon</a>
+
+<a href="https://www.flaticon.com/free-icons/ui" title="ui icons">Ui icons created by Dharma_Prasetya - Flaticon</a>
