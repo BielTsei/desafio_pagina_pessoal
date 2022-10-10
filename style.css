@@ -93,7 +93,17 @@ html {
   margin-bottom: 20px;
 }
 
+.imagens_portfolio1 {
+  width: 400px;
+  border-radius: 5px;
+  filter: grayscale(70%);
+}
+
 .imagens_portfolio:hover {
+  filter: none;
+}
+
+.imagens_portfolio1:hover {
   filter: none;
 }
 
@@ -102,7 +112,7 @@ html {
   letter-spacing: 1.8px;
   font-weight: bolder;
   text-align: left;
-  margin-top: 5px;
+  margin-top: 25px;
   margin-bottom: 15px;
 }
 
@@ -139,7 +149,9 @@ li {
 }
 
 .fonte_habilidades {
-  font-size: 18px;
+  font-size: 20px;
+  text-align: left;
+  font-family: "Exo 2";
 }
 
 #habilidades label {
