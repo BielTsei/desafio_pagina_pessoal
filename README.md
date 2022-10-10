@@ -1,4 +1,13 @@
-Atribuições:
+# Página pessoa
+
+#
+
+#### Projeto desenvolvido como exercicio do curso DevPro, onde foi utilizado HTML e CSS.
+
+![Preview](/imgs/preview_pgpessoal.png)
+
+##### Atribuições:
+
 <a href="https://www.flaticon.com/free-icons/web-development" title="web development icons">Web development icons created by surang - Flaticon</a>
 
 <a href="https://www.flaticon.com/free-icons/web-development" title="web development icons">Web development icons created by surang - Flaticon</a>
