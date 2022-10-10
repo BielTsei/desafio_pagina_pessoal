@@ -336,15 +336,21 @@ li {
   .imagens_portfolio {
     width: 320px;
     border-radius: 5px;
-    filter: grayscale(70%);
     margin-bottom: 20px;
   }
 
   .imagens_portfolio1 {
     width: 320px;
     border-radius: 5px;
-    filter: grayscale(70%);
     margin-left: 15px;
+  }
+
+  .imagens_portfolio1 {
+    filter: none;
+  }
+
+  .imagens_portfolio {
+    filter: none;
   }
 
   .nav_bar li {
@@ -381,5 +387,13 @@ li {
 
   #contato p {
     font-size: 18px;
+  }
+
+  .btn_inicio {
+    font-size: 36px;
+    width: 64px;
+    height: 64px;
+    line-height: 64px;
+    opacity: 0.7;
   }
 }
